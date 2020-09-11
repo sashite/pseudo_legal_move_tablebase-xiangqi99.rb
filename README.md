@@ -26,7 +26,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-PseudoLegalMoveTablebase::XIANGQI99 # => {"S:+B"=>{0=>[[{1=>:enemy}, [0, 1, ["S:+B"], true]], ...
+PseudoLegalMoveTablebase::XIANGQI99 # => {"X:-K"=>{0=>[[{1=>:enemy}, [0, 1, ["X:-K"], true]], ...
 ```
 
 ## License
