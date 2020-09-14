@@ -10,10 +10,10 @@ header: |
   require "./lib/pseudo_legal_move_tablebase/xiangqi99"
 
 subject: |
-  PseudoLegalMoveTablebase::%{chess_variant}
+  PseudoLegalMoveTablebase::%{chess_variant}::DB
 
 contexts:
-  chess_variant: XIANGQI99
+  chess_variant: Xiangqi99
 
 actuals:
   - "%{subject}.keys"

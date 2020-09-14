@@ -1,4 +1,4 @@
-# PseudoLegalMoveTablebase::XIANGQI99.rb
+# PseudoLegalMoveTablebase::Xiangqi99.rb
 
 [![Build Status](https://travis-ci.org/sashite/pseudo_legal_move_tablebase-xiangqi99.rb.svg?branch=master)](https://travis-ci.org/sashite/pseudo_legal_move_tablebase-xiangqi99.rb)
 [![Gem Version](https://badge.fury.io/rb/pseudo_legal_move_tablebase-xiangqi99.svg)][gem]
@@ -26,7 +26,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-PseudoLegalMoveTablebase::XIANGQI99 # => {"X:-K"=>{0=>[[{1=>:enemy}, [0, 1, ["X:-K"], true]], ...
+PseudoLegalMoveTablebase::Xiangqi99::DB # => {"X:-K" => {0 => [[{1 => :enemy}, [0, 1, ["X:-K"], true]], ...
 ```
 
 ## License
