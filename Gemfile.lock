@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pseudo_legal_move_tablebase-xiangqi99 (2.0.0)
+    pseudo_legal_move_tablebase-xiangqi99 (2.0.1)
 
 GEM
   remote: https://rubygems.org/
